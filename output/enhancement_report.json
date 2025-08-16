@@ -1,0 +1,258 @@
+{
+  "timestamp": "2025-08-16T16:20:33.721473",
+  "job_requirements": {
+    "total_requirements": 15,
+    "by_category": {
+      "technical": [
+        {
+          "skill": "sql",
+          "importance": "nice_to_have",
+          "context": "pactful solutions.\n\n\nRequirements:\n\nBA or BS degree, or equivalent experience in Mathematics, Statistics, Business Analytics, Economics, Physics, Engineering, or related fields.\n\nKnowledge of Python, "
+        },
+        {
+          "skill": "deep learning",
+          "importance": "nice_to_have",
+          "context": "ild up your professional portfolio.\n\nDeep dive into the full project life cycle, from model development to deployment.\n\nGain insights into diverse industries and work on challenging problems spanning "
+        },
+        {
+          "skill": "scikit-learn",
+          "importance": "nice_to_have",
+          "context": "irements:\n\nBA or BS degree, or equivalent experience in Mathematics, Statistics, Business Analytics, Economics, Physics, Engineering, or related fields.\n\nKnowledge of Python, SQL, pandas, matplotlib, "
+        },
+        {
+          "skill": "data science",
+          "importance": "nice_to_have",
+          "context": "bout the Opportunity:\n\nHands-on industry experience in a dynamic and supportive environment.\n\nExposure to cutting-edge tools and technologies in data science and analytics.\n\nOpportunity to contribute "
+        },
+        {
+          "skill": "python",
+          "importance": "nice_to_have",
+          "context": "liver impactful solutions.\n\n\nRequirements:\n\nBA or BS degree, or equivalent experience in Mathematics, Statistics, Business Analytics, Economics, Physics, Engineering, or related fields.\n\nKnowledge of "
+        },
+        {
+          "skill": "pandas",
+          "importance": "nice_to_have",
+          "context": "ul solutions.\n\n\nRequirements:\n\nBA or BS degree, or equivalent experience in Mathematics, Statistics, Business Analytics, Economics, Physics, Engineering, or related fields.\n\nKnowledge of Python, SQL, "
+        },
+        {
+          "skill": "matplotlib",
+          "importance": "nice_to_have",
+          "context": "ions.\n\n\nRequirements:\n\nBA or BS degree, or equivalent experience in Mathematics, Statistics, Business Analytics, Economics, Physics, Engineering, or related fields.\n\nKnowledge of Python, SQL, pandas, "
+        },
+        {
+          "skill": "machine learning",
+          "importance": "nice_to_have",
+          "context": "ics, Statistics, Business Analytics, Economics, Physics, Engineering, or related fields.\n\nKnowledge of Python, SQL, pandas, matplotlib, Scikit-Learn.\n\nStrong understanding of statistical concepts and "
+        }
+      ],
+      "soft_skill": [
+        {
+          "skill": "collaborative",
+          "importance": "nice_to_have",
+          "context": "al concepts and machine learning algorithms.\n\nExceptional problem-solving skills and keen attention to detail.\n\nExcellent communication and interpersonal abilities.\n\nAbility to work independently and "
+        },
+        {
+          "skill": "communication",
+          "importance": "nice_to_have",
+          "context": "hon, SQL, pandas, matplotlib, Scikit-Learn.\n\nStrong understanding of statistical concepts and machine learning algorithms.\n\nExceptional problem-solving skills and keen attention to detail.\n\nExcellent "
+        },
+        {
+          "skill": "mentoring",
+          "importance": "nice_to_have",
+          "context": "erpersonal abilities.\n\nAbility to work independently and collaboratively in a fast-paced environment.\n\n\nWhat We Offer:\n\nThe Residency will consist of approximately 6 months during which you will have "
+        },
+        {
+          "skill": "initiative",
+          "importance": "nice_to_have",
+          "context": "fer:\n\nThe Residency will consist of approximately 6 months during which you will have mentoring sessions alongside project work. You will explore different industries and learn about the ongoing data "
+        }
+      ],
+      "education": [
+        {
+          "skill": "degree",
+          "importance": "nice_to_have",
+          "context": "ural Language Processing, Time Series Analysis, and Recommender Systems.\n\nCollaborate with a team of experts and mentors to drive innovation and deliver impactful solutions.\n\n\nRequirements:\n\nBA or BS "
+        },
+        {
+          "skill": "engineering",
+          "importance": "nice_to_have",
+          "context": "experts and mentors to drive innovation and deliver impactful solutions.\n\n\nRequirements:\n\nBA or BS degree, or equivalent experience in Mathematics, Statistics, Business Analytics, Economics, Physics, "
+        },
+        {
+          "skill": "mathematics",
+          "importance": "nice_to_have",
+          "context": "s Analysis, and Recommender Systems.\n\nCollaborate with a team of experts and mentors to drive innovation and deliver impactful solutions.\n\n\nRequirements:\n\nBA or BS degree, or equivalent experience in "
+        }
+      ]
+    },
+    "required_skills": [],
+    "preferred_skills": []
+  },
+  "vector_search_results": {
+    "total_suggestions": 35,
+    "top_matches": [
+      {
+        "technologies": [
+          "nltk",
+          "flask",
+          "dotenv",
+          "re",
+          "langchain_openai",
+          "langchain_community",
+          "collections",
+          "uuid",
+          "langchain",
+          "fitz",
+          "json",
+          "logging",
+          "shutil",
+          "spacy",
+          "langchain_google_genai",
+          "os",
+          "tempfile",
+          "flask_cors"
+        ],
+        "relevance_score": 0.9828006,
+        "file_path": "app.py",
+        "repo_url": "https://github.com/Mildsauce9/DocuMentor"
+      },
+      {
+        "technologies": [],
+        "relevance_score": 0.98045504,
+        "file_path": "model.py",
+        "repo_url": "https://github.com/Mildsauce9/Stock-data-retrieval"
+      },
+      {
+        "technologies": [
+          "logging"
+        ],
+        "relevance_score": 0.97879493,
+        "file_path": "app.py",
+        "repo_url": "https://github.com/Mildsauce9/DocuMentor"
+      },
+      {
+        "technologies": [
+          "os",
+          "dateparser",
+          "dotenv",
+          "pinecone",
+          "google",
+          "openai",
+          "datetime",
+          "re"
+        ],
+        "relevance_score": 0.9787835,
+        "file_path": "model.py",
+        "repo_url": "https://github.com/Mildsauce9/Stock-data-retrieval"
+      },
+      {
+        "technologies": [
+          "datetime"
+        ],
+        "relevance_score": 0.9774021,
+        "file_path": "model.py",
+        "repo_url": "https://github.com/Mildsauce9/Stock-data-retrieval"
+      },
+      {
+        "technologies": [],
+        "relevance_score": 0.9801856,
+        "file_path": "model.py",
+        "repo_url": "https://github.com/Mildsauce9/Stock-data-retrieval"
+      },
+      {
+        "technologies": [
+          "flask",
+          "model"
+        ],
+        "relevance_score": 0.97957134,
+        "file_path": "app.py",
+        "repo_url": "https://github.com/Mildsauce9/Stock-data-retrieval"
+      },
+      {
+        "technologies": [
+          "logging"
+        ],
+        "relevance_score": 0.9788798,
+        "file_path": "app.py",
+        "repo_url": "https://github.com/Mildsauce9/DocuMentor"
+      },
+      {
+        "technologies": [],
+        "relevance_score": 0.9776874,
+        "file_path": "app.py",
+        "repo_url": "https://github.com/Mildsauce9/Stock-data-retrieval"
+      },
+      {
+        "technologies": [
+          "nltk",
+          "flask",
+          "dotenv",
+          "re",
+          "langchain_openai",
+          "langchain_community",
+          "collections",
+          "uuid",
+          "langchain",
+          "fitz",
+          "json",
+          "logging",
+          "shutil",
+          "spacy",
+          "langchain_google_genai",
+          "os",
+          "tempfile",
+          "flask_cors"
+        ],
+        "relevance_score": 0.97495717,
+        "file_path": "app.py",
+        "repo_url": "https://github.com/Mildsauce9/DocuMentor"
+      }
+    ]
+  },
+  "cv_sections": {
+    "total_sections": 4,
+    "modifiable_sections": 3,
+    "sections_detail": [
+      {
+        "title": "skills",
+        "is_modifiable": true,
+        "keywords": [
+          "python",
+          "sql",
+          "docker",
+          "git"
+        ],
+        "content_length": 355,
+        "enhanced": true
+      },
+      {
+        "title": "experience",
+        "is_modifiable": true,
+        "keywords": [
+          "python",
+          "sql",
+          "docker",
+          "git"
+        ],
+        "content_length": 843,
+        "enhanced": true
+      },
+      {
+        "title": "projects",
+        "is_modifiable": true,
+        "keywords": [],
+        "content_length": 1499,
+        "enhanced": true
+      },
+      {
+        "title": "education",
+        "is_modifiable": false,
+        "keywords": [
+          "data science"
+        ],
+        "content_length": 425,
+        "enhanced": false
+      }
+    ]
+  }
+}

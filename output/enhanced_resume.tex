@@ -1,0 +1,130 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{mailto:your.email@example.com}{\Large Your Name}} & Email : \href{mailto:your.email@example.com}{your.email@example.com}\\
+  \href{https://linkedin.com/in/yourprofile}{linkedin.com/in/yourprofile} & Mobile : +1 (555) 123-4567 \\
+  \href{https://github.com/yourusername}{github.com/yourusername} & \\
+\end{tabular*}
+
+%-----------SUMMARY-----------------
+\section{Professional Summary}
+
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+\resumeSubHeadingListStart
+    \resumeSubheading{AI Engineer Feb 2025 - Jul 2025}{Date Range}{Job Title}{Location}
+        \item Condo Protego FZ LLC, Dubai, UAE
+        \item Developed backend AI systems and automation tools, enhancing process accuracy and boosting time efficiency
+        \item by 60\textbackslash{}%
+        \item Architected containerized AI applications with Docker and CI/CD workflows, implementing automated test-
+        \item ing for deployment optimization
+        \item Deployed containerized AI applications to GCP with Google OAuth integration for secure internal access
+        \item Refactored legacy Python scripts into deployable, scalable applications with clean code practices and version
+        \item control (Git)
+        \item Software Administrator Intern Jun 2023 - Aug 2023
+        \item Mannai Corporation QPSC, Doha, Qatar
+        \item Developed dynamic web applications using MVC architectural patterns with integrated RESTful APIs
+        \item Implemented SQL database connectivity and data transfer processes using Python for enhanced storage
+        \item performance
+
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+\resumeSubheading
+      {University Name}{Graduation Date}
+      {Degree in Major}{Location}
+\resumeSubHeadingListEnd
+
+%-----------SKILLS-----------------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+      \small{\textbf{AI/ML Technologies}{:TensorFlow, Keras, OpenAI APIs, LangChain, LangGraph, LLM APIs, Computer}}
+      \small{\item Vision, NLP, Semantic Search}
+      \small{\textbf{Programming Languages}{:Python, SQL, HTML, CSS}}
+      \small{\textbf{Frameworks \textbackslash{}& Tools}{:Flask, Django, Docker, Git, Pandas, NumPy, Vector Databases (Pinecone)}}
+      \small{\textbf{Specializations}{:Conversational AI, Real-time Systems, Feature Engineering, ETL Pipelines, CI/CD}}
+\end{itemize}
+
+
+%-----------PROJECTS-----------------
+\section{Projects}
+\resumeSubHeadingListStart
+    \resumeSubheading{1: App}{}{{\small Technologies: flask, model}}{\href{https://github.com/Mildsauce9/Stock-data-retrieval}{https://github.com/Mildsauce9/Stock-data-retrieval}}\n      \resumeItemListStart\n        \item Demonstrated expertise in **key technologies** by developing a project that leverages flask, model to solve real-world problems. The implementation focuses on clean, scalable code and robust functionality.\n      \resumeItemListEnd\n
+    \resumeSubheading{2: Model}{}{{\small Technologies: os, dateparser, dotenv, pinecone, google, openai, datetime, re}}{\href{https://github.com/Mildsauce9/Stock-data-retrieval}{https://github.com/Mildsauce9/Stock-data-retrieval}}\n      \resumeItemListStart\n        \item Demonstrated expertise in **key technologies** by developing a project that leverages os, dateparser, dotenv, pinecone, google, openai, datetime, re to solve real-world problems. The implementation focuses on clean, scalable code and robust functionality.\n      \resumeItemListEnd\n
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS-----------------
+\section{Certifications}
+
+
+%-----------ACHIEVEMENTS-----------------
+\section{Achievements}
+
+
+\end{document}
